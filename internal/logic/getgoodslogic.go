@@ -3,8 +3,8 @@ package logic
 import (
 	"context"
 
-	"github.com/yingjian/zore-goods/internal/svc"
-	"github.com/yingjian/zore-goods/types/goods"
+	"github.com/yingjian-bianjie/zore-goods/internal/svc"
+	"github.com/yingjian-bianjie/zore-goods/types/goods"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

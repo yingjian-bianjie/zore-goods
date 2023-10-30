@@ -4,10 +4,10 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/yingjian/zore-goods/internal/config"
-	"github.com/yingjian/zore-goods/internal/server"
-	"github.com/yingjian/zore-goods/internal/svc"
-	"github.com/yingjian/zore-goods/types/goods"
+	"github.com/yingjian-bianjie/zore-goods/internal/config"
+	"github.com/yingjian-bianjie/zore-goods/internal/server"
+	"github.com/yingjian-bianjie/zore-goods/internal/svc"
+	"github.com/yingjian-bianjie/zore-goods/types/goods"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/service"

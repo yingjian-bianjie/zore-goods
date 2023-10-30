@@ -1,6 +1,6 @@
 package svc
 
-import "github.com/yingjian/zore-goods/internal/config"
+import "github.com/yingjian-bianjie/zore-goods/internal/config"
 
 type ServiceContext struct {
 	Config config.Config

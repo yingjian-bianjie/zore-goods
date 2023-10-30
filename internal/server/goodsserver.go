@@ -6,9 +6,9 @@ package server
 import (
 	"context"
 
-	"github.com/yingjian/zore-goods/internal/logic"
-	"github.com/yingjian/zore-goods/internal/svc"
-	"github.com/yingjian/zore-goods/types/goods"
+	"github.com/yingjian-bianjie/zore-goods/internal/logic"
+	"github.com/yingjian-bianjie/zore-goods/internal/svc"
+	"github.com/yingjian-bianjie/zore-goods/types/goods"
 )
 
 type GoodsServer struct {

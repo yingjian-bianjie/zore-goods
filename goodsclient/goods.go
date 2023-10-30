@@ -6,7 +6,7 @@ package goodsclient
 import (
 	"context"
 
-	"github.com/yingjian/zore-goods/types/goods"
+	"github.com/yingjian-bianjie/zore-goods/types/goods"
 
 	"github.com/zeromicro/go-zero/zrpc"
 	"google.golang.org/grpc"

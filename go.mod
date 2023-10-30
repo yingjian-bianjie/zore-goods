@@ -1,4 +1,4 @@
-module github.com/yingjian/zore-goods
+module github.com/yingjian-bianjie/zore-goods
 
 go 1.20
 
